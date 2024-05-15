@@ -9,16 +9,16 @@ To achieve this goal, our team disassembled and embedded sensors connected to a 
   
 The mobile application was built for Android using Kotlin, the official language for Android development. Communication was done through Bluetooth; the functionality was built from the microcontrollers side and the applications side. When entering one of the modes, the application read the transmitted data from the armour and display the appropriate data depending on the mode. Three modes were built, training mode with a configurable time that displayed strike strength, location, and averages to the user. The second mode was a speed game mode, giving the user one minute to strike the armour as much as possible, with their total strikes displayed and being their final score. The last mode was a strength game mode, giving the user ten seconds to strike the armour as hard as they could, displaying their greatest strike. Strike data was saved and persisted using SQLite to allow the user to review their progress. The application allowed for multiple users, with the strike data tied to the appropriate user.  
   
-[Algonquin College Project Page]https://www.algonquincollege.com/arie/2023/04/martial-arts-training-application-body-armour/  
+[Algonquin College Project Page](https://www.algonquincollege.com/arie/2023/04/martial-arts-training-application-body-armour/)  
   
-<iframe src="https://drive.google.com/file/d/1cDg_BC6rhrli0leGfBzH4nxN0-B2RqMF/preview" width="500" height="280" allow="fullscreen" style="max-width: 100%;"></iframe>
-[Alternate Link]https://youtu.be/-vWOOe_0j7g
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-vWOOe_0j7g&ab" target="_blank"><img src="http://img.youtube.com/vi/-vWOOe_0j7g&ab/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 This was the Armour:
 <img src="https://drive.google.com/thumbnail?id=1O_KtISXboAeJkdwuYsy59707GKtPc6Yi&sz=w1000" style="max-width: 60%;" >
 
 The Application Dashboard:  
-<img src="https://drive.google.com/thumbnail?id=1J2Zga4MgXJX1MU8tYxmLdCAvUhVF7uyo&sz=w1000" style="max-width: 24%;" >
+![Home Page/Dashboard](https://drive.google.com/thumbnail?id=1J2Zga4MgXJX1MU8tYxmLdCAvUhVF7uyo&sz=w1000)
 <img src="https://drive.google.com/thumbnail?id=1PvbITOjR29HqQkEwTnw-jYL3vbZLyiOK&sz=w1000" style="max-width: 24%;" >
 <img src="https://drive.google.com/thumbnail?id=1iZwNqpSiE494-cekTZDwnGN8zMW7AwiK&sz=w1000" style="max-width: 24%;" >
 <img src="https://drive.google.com/thumbnail?id=1TA8L18t1ye3jXJbpA__CVcWzg4Eb0xAC&sz=w1000" style="max-width: 24%;" >
