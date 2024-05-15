@@ -17,7 +17,7 @@ The mobile application was built for Android using Kotlin, the official language
 [Algonquin College Project Page](https://www.algonquincollege.com/arie/2023/04/martial-arts-training-application-body-armour/)  
 
 Video Demonstration:  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-vWOOe_0j7g&ab" target="_blank"><img src="http://img.youtube.com/vi/-vWOOe_0j7g&ab" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-vWOOe_0j7g&ab" target="_blank"><img src="https://drive.google.com/file/d/1vh7gRp8oSA2p7dlQ3_Ebd3gpvLKpHPmy/preview" 
 alt="Video Demonstration" width="240" height="180" border="10" /></a>
   
 ## Results
@@ -67,5 +67,3 @@ The "Theme" and "Measurement Units" settings were each a pop up menu.
 ### Bluetooth Page
 <img src="https://drive.google.com/thumbnail?id=1lR0U58UnZGoFBwedkOF0PSLQegFCF5j-&sz=w1000" style="max-width: 24%;" >
 <img src="https://drive.google.com/thumbnail?id=190YhsxXO0u86Jo5rIQnZ9nWVzlBnVEOK&sz=w1000" style="max-width: 24%;" >
-
-### Armour Internals
