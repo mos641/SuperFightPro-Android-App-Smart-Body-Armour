@@ -1,8 +1,5 @@
-SuperFightPro - Android App & Smart Body Armour
-===============================================
+# SuperFightPro - Android App & Smart Body Armour
 ## Summary  
-A martial arts smart body armour with embedded sensors communicating via bluetooth to an Android application displaying and tracking your strike strength and locations for training purposes.
-
 I lead an interdisciplinary group of my peers to build a smart phone application and martial arts body armour equipment which were designed, programmed, assembled, and tested based on cost, sustainability, durability, and manufacturability for the purpose of enhancing martial artist’s training routines within the boundaries of the Android platform, closed source software, and client requirements. Throughout the process we authored a detailed technical report outlining the research, design, implementation, testing, results and recommendations for the project.  
   
 ## Background  
@@ -17,53 +14,40 @@ The mobile application was built for Android using Kotlin, the official language
 [Algonquin College Project Page](https://www.algonquincollege.com/arie/2023/04/martial-arts-training-application-body-armour/)  
 
 Video Demonstration:  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-vWOOe_0j7g&ab" target="_blank"><img src="https://drive.google.com/thumbnail?id=1vh7gRp8oSA2p7dlQ3_Ebd3gpvLKpHPmy&sz=w1000" 
-alt="Video Demonstration" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-vWOOe_0j7g&ab" target="_blank"><img src="https://drive.google.com/thumbnail?id=1vh7gRp8oSA2p7dlQ3_Ebd3gpvLKpHPmy&sz=w1000" alt="Video Demonstration" width="240" height="180" border="10" /></a>
   
 ## Results
 ### The Armour 
-<img src="https://drive.google.com/thumbnail?id=1O_KtISXboAeJkdwuYsy59707GKtPc6Yi&sz=w1000" style="max-width: 60%;" >
+<img src="https://drive.google.com/thumbnail?id=1O_KtISXboAeJkdwuYsy59707GKtPc6Yi&sz=w1000" width="80%" >
 
 ### Dashboard (Home Page)
-![Home Page/Dashboard](https://drive.google.com/thumbnail?id=1J2Zga4MgXJX1MU8tYxmLdCAvUhVF7uyo&sz=w1000)
-<img src="https://drive.google.com/thumbnail?id=1PvbITOjR29HqQkEwTnw-jYL3vbZLyiOK&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=1iZwNqpSiE494-cekTZDwnGN8zMW7AwiK&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=1TA8L18t1ye3jXJbpA__CVcWzg4Eb0xAC&sz=w1000" style="max-width: 24%;" >
+<img src="https://drive.google.com/thumbnail?id=1J2Zga4MgXJX1MU8tYxmLdCAvUhVF7uyo&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1PvbITOjR29HqQkEwTnw-jYL3vbZLyiOK&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1iZwNqpSiE494-cekTZDwnGN8zMW7AwiK&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1TA8L18t1ye3jXJbpA__CVcWzg4Eb0xAC&sz=w1000" width="24%" >
 
   
 ### "Modes" Selection Page  
-<img src="https://drive.google.com/thumbnail?id=1IXRVxerdwmkXnBCghmXzYtOub10obK8I&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=1X__41KipkKWUsyYHEW9aVtzOhnpRirkO&sz=w1000" style="max-width: 24%;" >
+<img src="https://drive.google.com/thumbnail?id=1IXRVxerdwmkXnBCghmXzYtOub10obK8I&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1X__41KipkKWUsyYHEW9aVtzOhnpRirkO&sz=w1000" width="24%" >
 
   
 ### "Training" Mode
-<img src="https://drive.google.com/thumbnail?id=1-JRnIa6XYIAoRLICUk564oDNfnl20v_F&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=1HF9hP66NPY0GMWCI1-NKmQCKz1gqLCZK&sz=w1000" style="max-width: 24%;" >
+<img src="https://drive.google.com/thumbnail?id=1-JRnIa6XYIAoRLICUk564oDNfnl20v_F&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1HF9hP66NPY0GMWCI1-NKmQCKz1gqLCZK&sz=w1000" width="24%" >
 
   
 ### "Speed" Mode
-<img src="https://drive.google.com/thumbnail?id=1fhU1MSBEKAy90f79D7vVsZcHPSx1HacR&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=1WrKG9sJopI4l9yZnPb0KJtvd2FrZn6Dc&sz=w1000" style="max-width: 24%;" >
+<img src="https://drive.google.com/thumbnail?id=1fhU1MSBEKAy90f79D7vVsZcHPSx1HacR&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1WrKG9sJopI4l9yZnPb0KJtvd2FrZn6Dc&sz=w1000" width="24%" >
 
   
 ### "Strength" Mode
-<img src="https://drive.google.com/thumbnail?id=1tyMafwR3wKDha19wQfj-GjIK5m5532-A&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=1OqL-Ge0DzlNA7xEtJUA6CjWJLWWFFvUa&sz=w1000" style="max-width: 24%;" >
+<img src="https://drive.google.com/thumbnail?id=1tyMafwR3wKDha19wQfj-GjIK5m5532-A&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1OqL-Ge0DzlNA7xEtJUA6CjWJLWWFFvUa&sz=w1000" width="24%" >
 
   
 ### Settings Page 
-<img src="https://drive.google.com/thumbnail?id=1vp_7HMYtvsPkBJfz4atVi-Xej_jIFvjY&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=1hJkBnx42q-1M6oovmjY__uqvLaqM0AOI&sz=w1000" style="max-width: 24%;" >
+<img src="https://drive.google.com/thumbnail?id=1vp_7HMYtvsPkBJfz4atVi-Xej_jIFvjY&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1hJkBnx42q-1M6oovmjY__uqvLaqM0AOI&sz=w1000" width="24%" >
   
 The "Theme" and "Measurement Units" settings were each a pop up menu.  
   
 ### Users Selection and Creation/Editing Page
-<img src="https://drive.google.com/thumbnail?id=1dAu38pzu2w0_XX63RuVXZ-waIGsK29Aq&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=1OLghVlfCxFykVvOUyYccmOQbW6t7M5pS&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=1xpf60sZv2HMORqYGLr7cfs_0sek-sAHC&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=19py10bDQy4prMTcRlzveSBd1H4Tbdb1B&sz=w1000" style="max-width: 24%;" >
+<img src="https://drive.google.com/thumbnail?id=1dAu38pzu2w0_XX63RuVXZ-waIGsK29Aq&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1OLghVlfCxFykVvOUyYccmOQbW6t7M5pS&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=1xpf60sZv2HMORqYGLr7cfs_0sek-sAHC&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=19py10bDQy4prMTcRlzveSBd1H4Tbdb1B&sz=w1000" width="24%" >
 
   
 ### Bluetooth Page
-<img src="https://drive.google.com/thumbnail?id=1lR0U58UnZGoFBwedkOF0PSLQegFCF5j-&sz=w1000" style="max-width: 24%;" >
-<img src="https://drive.google.com/thumbnail?id=190YhsxXO0u86Jo5rIQnZ9nWVzlBnVEOK&sz=w1000" style="max-width: 24%;" >
+<img src="https://drive.google.com/thumbnail?id=1lR0U58UnZGoFBwedkOF0PSLQegFCF5j-&sz=w1000" width="24%" > <img src="https://drive.google.com/thumbnail?id=190YhsxXO0u86Jo5rIQnZ9nWVzlBnVEOK&sz=w1000" width="24%" >
